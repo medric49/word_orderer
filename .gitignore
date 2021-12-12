@@ -1,0 +1,7 @@
+.idea
+1g-word-1m-benchmark-r13output
+__pycache__
+data
+*.ipynb
+!*_final.ipynb
+.ipynb_checkpoints
